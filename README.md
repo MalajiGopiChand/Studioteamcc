@@ -1,4 +1,4 @@
-# Studio by TeamCC
+# Studioteamcc
 
 React + Vite portfolio. Run `npm install`, then `npm run dev`. `npm run build` creates dist. Import into Vercel as a Vite project; vercel.json handles SPA routes.
 
