@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.site-*
+contact-sheet.jpg
+imgs/
+public/images/*.jpg
+outputs/
