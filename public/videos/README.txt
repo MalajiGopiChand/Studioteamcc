@@ -1,0 +1,1 @@
+Put authorized MP4 or WebM files in this folder. In src/data/content.js, set each film src to /videos/your-file.mp4. Set orientation to landscape for horizontal films. Optional poster and captions paths are supported. Entries with no src are intentionally hidden. Instagram URLs are references only and are never embedded.
